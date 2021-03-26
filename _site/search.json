@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-26T20:21:32+01:00"
+    },
+    {
+      "path": "index.html",
+      "title": "JAB on movies",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-26T20:21:33+01:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
